@@ -71,31 +71,31 @@
           "operation": "default",
           "warmup-iterations": 500,
           "iterations": 200,
-          "target-throughput": 30
+          "target-throughput": 35
         },
         {
           "operation": "term",
           "warmup-iterations": 500,
           "iterations": 200,
-          "target-throughput": 30
+          "target-throughput": 35
         },
         {
           "operation": "phrase",
           "warmup-iterations": 500,
           "iterations": 200,
-          "target-throughput": 30
+          "target-throughput": 35
         },
         {
           "operation": "articles_monthly_agg_uncached",
           "warmup-iterations": 500,
           "iterations": 200,
-          "target-throughput": 30
+          "target-throughput": 35
         },
         {
           "operation": "articles_monthly_agg_cached",
           "warmup-iterations": 500,
           "iterations": 200,
-          "target-throughput": 30
+          "target-throughput": 35
         },
         {
           "operation": "scroll",
